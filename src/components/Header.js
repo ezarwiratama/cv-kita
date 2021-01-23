@@ -1,9 +1,12 @@
 import React from 'react'
+import '../components/styling/header.css';
 
 const Header = () => {
   return (
     <>
-      <h1 class="display-1">Tim33</h1>
+      <div className="header"> 
+            <h1 class="display-1">Tim33</h1>
+      </div>
     </>
   )
 }
