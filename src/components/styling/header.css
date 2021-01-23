@@ -1,0 +1,8 @@
+.header{
+    background-image: url("header.jpg");
+    text-shadow: 3px 5px yellow;
+    padding:300px;
+    background-repeat: no-repeat;
+    background-size: 1500px 700px;
+    color:white;
+    text-align:center;}
