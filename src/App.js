@@ -1,5 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
+import '../src/assets/tailwind.css'
+
 import Header from './components/Header'
 import Isi from './components/Isi'
 import Foto from './components/Foto'
