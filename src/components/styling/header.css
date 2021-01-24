@@ -3,6 +3,14 @@
     text-shadow: 6px 9px rgb(8, 31, 163);
     padding:300px;
     background-repeat: no-repeat;
-    background-size: 1500px 700px;
+    background-size: cover;
     color:white;
-    text-align:center;}
+    text-align:center;
+    font-weight: bold;
+   
+        }
+.tulisan{
+    font-size: 100px;
+    font-family: "Times New Roman", Times, serif;
+}
+
