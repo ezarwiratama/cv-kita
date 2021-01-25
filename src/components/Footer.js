@@ -1,26 +1,16 @@
 import React from 'react'
-import { ICFacebook, ICGithub, ICInstagram, ICTwitter, ICWhatsapp } from '../App'
 import '../components/styling/footer.css'
-
-
-const Icon =({img}) => {
-    return (
-        <div>
-          <img src={img} alt="icon" />
-        </div>
-    )
-}
 
 const Footer = () => {
   return (
     <footer>
           <div className="content-social">
             <div className="social">
-                <Icon img={ICFacebook} />
-                <Icon img={ICTwitter} />
-                <Icon img={ICInstagram} />
-                <Icon img={ICWhatsapp} />
-                <Icon img={ICGithub} />
+                <a href="//#region"><span className="fab fa-facebook-f"></span></a>
+                <a href="//#region"><span className="fab fa-twitter"></span></a>
+                <a href="//#region"><span className="fab fa-instagram"></span></a>
+                <a href="//#region"><span className="fab fa-whatsapp"></span></a>
+                <a href="//#region"><span className="fab fa-github"></span></a>
             </div>
           </div>
 
