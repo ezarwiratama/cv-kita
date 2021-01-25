@@ -1,0 +1,93 @@
+.content-social {
+    justify-content:space-around;
+    background-color: rgb(12, 58, 143);
+    padding: 20px;
+    display: flex;
+}
+.social{
+    width: 30px;
+    height: 30px;
+    column-count:1;
+}
+.footer-mid {
+    bottom: 0px;
+    width: 100%;
+    background: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+.main-content{
+    display: flex;
+}
+.left-box {
+    flex-basis: 50%;
+    padding: 10px 20px;
+    text-align: justify;
+}
+.center-box{
+    flex-basis: 50%;
+    padding: 10px 20px;
+
+}
+.right-box {
+    flex-basis: 50%;
+    padding: 10px 20px;
+}
+.main-content h2 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.main-content .content {
+    margin: 20px 0 0 0;
+}
+.email input{
+    background-color: black;
+    border-color:rgb(8, 31, 163);
+    border-radius: 100px;
+    border-width: thick;
+    color: white;
+}
+.msg textarea{
+    background-color: black;
+    border-color:rgb(8, 31, 163);
+    border-radius: 100px;
+    border-width: thick;
+    color: white;
+}
+.text-msg {
+    font-size: 1.125rem;
+}
+.btn button{
+    height: 40px;
+    width: 150px;
+    border: none;
+    outline: none;
+    background:  rgb(8, 31, 163);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 3s;
+    color: white;
+}
+
+
+
+.copyright {
+    background-color: rgb(29, 29, 29);
+    padding: 10px 0px;
+}
+.copyright-p {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    margin: 0px
+}
+
+
+
+
+
+
+ 

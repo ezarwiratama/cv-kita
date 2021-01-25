@@ -6,6 +6,10 @@
     align-items: center;
     background-color: rgb(12, 58, 143);
     color: rgb(220, 228, 255);
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 .ul {
     display: flex;
@@ -21,10 +25,6 @@
     font-size: 0.8em;
     text-decoration: none;
     color: rgb(220, 228, 255);
-}
-
-.ul a:hover {
-    color: rgb(255, 255, 255);
 }
 
 .logo {
