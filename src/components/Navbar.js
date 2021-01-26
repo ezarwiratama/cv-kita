@@ -8,11 +8,11 @@ function Navbar  () {
         <h4 class="logo">Tiga33</h4>
     </div>
     <ul class="ul">
-            <li className="ul a"><p>Home</p></li>
-            <li className="ul a"><p>Project</p></li>
-            <li className="ul a"><p>Gallery</p></li>
-            <li className="ul a"><p>About</p></li>
-    </ul> 
+            <li><a href="//#region ">Home</a></li>
+            <li><a href="//#region ">Team</a></li>
+            <li><a href="//#region ">Project</a></li>
+            <li><a href="//#region ">About</a></li>
+    </ul>
 </nav>
     
   )
