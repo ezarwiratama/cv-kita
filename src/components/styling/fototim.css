@@ -1,0 +1,55 @@
+.cards {
+    max-width: max-content;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+}
+.services {
+    display: flex;
+    align-items: center;
+}
+.card {
+    
+    margin: 20px;
+    padding: 20px;
+    box-shadow: black;
+    border-radius: 10px;
+    float: left;
+    display: flex;
+}
+.fototim {
+    height: 250px;
+    width: 250px;
+}
+button {
+    height: 40px;
+    width: 250px;
+    border: none;
+    outline: none;
+    background:  rgb(8, 31, 163);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0,7s;
+    color: white;
+}
+button:hover {
+    background-color: red;
+}
+.sosmed-pribadi span{
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    border-radius: 10px;
+}
+.sosmed-pribadi span:hover{
+    background-color: black;
+}
+.sosmed-pribadi a{
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    
+    text-decoration: none;
+    text-align: center;
+}

@@ -87,11 +87,12 @@
     font-size: 1.0625rem;
     font-weight: 500;
     cursor: pointer;
-    transition: 3s;
+    transition: 0,7s;
     color: white;
 }
-
-
+.btn button:hover{
+    background-color: red;
+}
 
 
 .copyright {

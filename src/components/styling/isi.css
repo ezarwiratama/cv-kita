@@ -1,0 +1,14 @@
+.bodyisi {
+    padding: 30px;
+    margin: 30px;
+    background-color:white;
+}
+.sub-title {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+.bacaan {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 30px;
+}
